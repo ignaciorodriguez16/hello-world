@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Zlatan Ibrahimovic</title>
+	<title>Gareth Bale</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -14,26 +14,26 @@
 
 </head>
 <body> 
-        <body background="http://www.drodd.com/images15/sweden-flag7.jpg"> 
+        <body background="https://nathenamin.files.wordpress.com/2011/11/welshflag.jpg"> 
     <div>
-        <h1 style="color:yellow">Zlatan Fan Page</h1>
+        <h1 style="color:red">Bale Fan Page</h1>
     <ul class="nav nav-pills">
       <li role="presentation"><a href="http://www.biography.com/people/zlatan-ibrahimovic-21342025">About</a></li>
-      <li role="presentation"><a href="https://www.youtube.com/watch?v=iCzw9IdiE_0">Quote</a></li>
-      <li role="presentation"><a href="https://www.youtube.com/watch?v=ln35qLphK4I">Skills and Goals</a></li>
+      <li role="presentation"><a href="https://www.youtube.com/watch?v=picHIDnFzEc">Speed Show</a></li>
+      <li role="presentation"><a href="https://www.youtube.com/watch?v=Q9OacJSKRFQ">Skills and Tricks</a></li>
     </ul>
     </div>
     </body>
-    <img class="Garsha" src="http://wallpapercave.com/wp/7B3BNE3.jpg"> 
-    <p class="Zlatan History">Zlatan Ibrahimovic was born on October 3, 1981 in Malmo, Sweden. His parents divorced when he was 2 years old and had a rough childhood. He was a bicycle thief and a school bully. He maade his professional debut for Malmo FF in 1999. Then he signed with AFC Ajax. After 4 years with Ajax, he transferred to Juventus FC and led them to 2 championships, but the team was stripped away from the titles because of club management scandals. This forced Zlatan to transfer to Inter Milan. There he won 3 titles and a league scoring crown in 2009. in 2009 he was traded to Fc Barcelona and won another title, but later was traded to AC Milan. There he won his second scoring crown but he didn't win a title so it ended his 8 season straight title win streak. In 2012 he transferred to Paris Saint-Germain, there he won his third scoring title and led the team to its first title in 19 years.
+    <img class="Garsha" src="http://orig00.deviantart.net/9c2a/f/2015/165/6/c/gareth_bale_wales_wallpaper_2015_by_ricardodossantos-d8x8w7d.jpg"> 
+    <p class="Bale History">Gareth Bale was born in Cardiff, Wales on July 16, 1989. He went to Eglwys Newydd Primary School at Whitchurch and was spotted by the Southampton scouts in his school. Bale went to Whitchurch High School in Cardiff. At 14 years old, Gareth could run 100 meters in 11.4 seconds. He trained at Southampton's academy in Bath but they had some doubts whether to sign him because of his height. Bale began his professional career playing for Southampton as a left back and got the reputation as a free kick specialist. In 2007 he transferred to Tottenham Hotspur and got a more offensive role. He kept putting on performances and it attracted clubs in Europe. Eventually he got signed by Real Madrid and he currently plays for the club.
     </p>
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img class="ZlatanManU" src="http://cdn.ghanaweb.com/imagelib/pics/90503786.295.jpg">
+                <img class="BaleRea" src="http://www.ronaldo7.net/news/2013/11/750-gareth-bale-real-madrid-number-11.jpg">
             </div> 
                 <div class="col-md-6">
-                    <img class="ZlatanSweden" src="http://i.dailymail.co.uk/i/pix/2014/09/06/1410006779690_wps_9_Sweden_s_forward_and_team.jpg">
+                    <img class="BaleWales" src="http://ichef.bbci.co.uk/onesport/cps/480/cpsprodpb/5FA8/production/_86488442_bale.jpg">
                 </div>
         </div>
     </div>
